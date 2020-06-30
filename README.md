@@ -5,13 +5,13 @@
 **学院：** 计算机学院
 
 作业报告：  
->[作业三：分类与预测.ipynb](https://github.com/BaiSimeng0714/data_mining_HW3/blob/master/%E4%BD%9C%E4%B8%9A%E4%B8%89%EF%BC%9A%E5%88%86%E7%B1%BB%E4%B8%8E%E9%A2%84%E6%B5%8B.ipynb)  
+>[作业四：离群点分析与异常检测.pdf](https://github.com/BaiSimeng0714/data_mining_HW4/blob/master/%E4%BD%9C%E4%B8%9A%E5%9B%9B%EF%BC%9A%E7%A6%BB%E7%BE%A4%E7%82%B9%E5%88%86%E6%9E%90%E4%B8%8E%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B.pdf)  
 
 代码：
->[作业三：分类与预测.pdf](https://github.com/BaiSimeng0714/data_mining_HW3/blob/master/%E4%BD%9C%E4%B8%9A%E4%B8%89%EF%BC%9A%E5%88%86%E7%B1%BB%E4%B8%8E%E9%A2%84%E6%B5%8B.pdf)  
+>[作业四：代码部分](https://github.com/BaiSimeng0714/data_mining_HW4/tree/master/code)  
 
 结果：
->[作业三：分类与预测.html](https://github.com/BaiSimeng0714/data_mining_HW3/blob/master/%E4%BD%9C%E4%B8%9A%E4%B8%89%EF%BC%9A%E5%88%86%E7%B1%BB%E4%B8%8E%E9%A2%84%E6%B5%8B.html)
+>[作业四：结果部分](https://github.com/BaiSimeng0714/data_mining_HW4/tree/master/result)
 
 数据集来源：Anomaly Detection Meta-Analysis Benchmarks  
 >数据集来源主页：https://ir.library.oregonstate.edu/concern/datasets/47429f155?locale=en  
